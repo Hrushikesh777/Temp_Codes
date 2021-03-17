@@ -1,1 +1,3 @@
 https://www.credential.net/2b1b100a-fd0d-4be2-8485-1f9c61ee0e12?key=9cb6c1ddad8532d228999280c4cddb355c4bdf271160eeaaef495e2a05cf7679
+
+Installing collected packages: protobuf, proto-plus, pytz, pyasn1, rsa, cachetools, pyasn1-modules, google-auth, pyparsing, packaging, googleapis-common-protos, grpcio, google-api-core, grpc-google-iam-v1, pyyaml, typing-extensions, mypy-extensions, typing-inspect, libcst, google-cloud-pubsub
