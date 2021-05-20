@@ -11,4 +11,6 @@ https://cloud.google.com/sql/docs/postgres/connect-admin-ip#connect-ssl --------
 
 https://cloud.google.com/sql/docs/mysql/admin-api/libraries#java ---------------------------------  jva client library
 
+https://spark.apache.org/docs/latest/sql-data-sources-hive-tables.html -------- spark with hive
+
 
