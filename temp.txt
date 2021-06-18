@@ -13,4 +13,6 @@ https://cloud.google.com/sql/docs/mysql/admin-api/libraries#java ---------------
 
 https://spark.apache.org/docs/latest/sql-data-sources-hive-tables.html -------- spark with hive
 
+https://dev.mysql.com/doc/connector-j/8.0/en/connector-j-reference-using-ssl.html
+
 
